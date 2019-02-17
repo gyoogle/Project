@@ -24,7 +24,7 @@
 
 - Java / JSP / Spring
 
-  1. GUI_EmployeeManagement
+  1. [GUI_EmployeeManagement](https://github.com/kim6394/Project/tree/master/java/GUI_EmployeeManagement)
 
      > GUI를 활용한 직원 관리 프로그램
 
